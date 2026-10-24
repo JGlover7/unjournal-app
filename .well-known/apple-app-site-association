@@ -4,7 +4,7 @@
       {
         "appIDs": ["27K6GVXMTF.com.alignedlifeapps.unjournal"],
         "components": [
-          { "/": "/", "comment": "Open The Un-Journal on the Today screen" }
+          { "/": "*", "comment": "Open The Un-Journal on the Today screen (any path)" }
         ]
       }
     ]
